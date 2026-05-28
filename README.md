@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohammed-Shaban/Mohammed-Shaban/main/banner.gif" />
+  <img src="https://raw.githubusercontent.com/Starlord786/Mohammed-Shaban/main/banner.gif" />
 </p>
 
 <h1 align="center">Mohammed Shaban</h1>
