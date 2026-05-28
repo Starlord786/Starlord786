@@ -50,27 +50,18 @@ public class MohammedShaban {
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Starlord786/Starlord786/output/github-snake.svg" />
 </picture>
 
-> **Setup:** Go to your profile repo → Actions → New workflow → paste the snake action (see instructions below)
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Starlord786&show_icons=true&theme=tokyonight&border_color=00ffe7&title_color=00ffe7&icon_color=a855f7&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlord786&layout=compact&theme=tokyonight&border_color=00ffe7&title_color=00ffe7&hide_border=false" width="40%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Starlord786&show_icons=true&theme=tokyonight&border_color=00ffe7&title_color=00ffe7&icon_color=a855f7&count_private=true&hide_border=false" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlord786&layout=compact&theme=tokyonight&border_color=00ffe7&title_color=00ffe7&hide_border=false&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Starlord786&theme=tokyonight&border=00ffe7&ring=a855f7&fire=fbbf24&currStreakLabel=00ffe7" width="60%" />
-</p>
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,git,github,linux,vscode&theme=dark&perline=11" />
+  <img src="https://streak-stats.demolab.com?user=Starlord786&theme=tokyonight&border=00ffe7&ring=a855f7&fire=fbbf24&currStreakLabel=00ffe7&sideLabels=00ffe7" width="55%" />
 </p>
 
 ---
@@ -79,6 +70,14 @@ public class MohammedShaban {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Starlord786&theme=tokyo-night&color=00ffe7&line=a855f7&point=fbbf24&area=true&hide_border=false" width="100%" />
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,git,github,linux,vscode&theme=dark&perline=11" />
 </p>
 
 ---
