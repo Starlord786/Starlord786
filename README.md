@@ -54,11 +54,7 @@ public class MohammedShaban {
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Starlord786&show_icons=true&theme=tokyonight&border_color=00ffe7&title_color=00ffe7&icon_color=a855f7&count_private=true&hide_border=false" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlord786&layout=compact&theme=tokyonight&border_color=00ffe7&title_color=00ffe7&hide_border=false&langs_count=6" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Starlord786&theme=tokyonight&border=00ffe7&ring=a855f7&fire=fbbf24&currStreakLabel=00ffe7&sideLabels=00ffe7" width="55%" />
