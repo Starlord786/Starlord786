@@ -2,108 +2,136 @@
   <img src="https://raw.githubusercontent.com/Starlord786/Mohammed-Shaban/main/banner.gif" width="100%" />
 </p>
 
+<h1 align="center">
+  Mohammed Shaban
+</h1>
+
+<h3 align="center">
+  Software Developer | Full-Stack Developer | CSE Student
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Starlord786&color=00ffe7&style=for-the-badge&label=PROFILE+VIEWS" />
+  Building practical solutions through code, creativity, and continuous learning.
 </p>
 
-<h1 align="center">Mohammed Shaban</h1>
-
 <p align="center">
-  <code>@Starlord786</code> &nbsp;·&nbsp; he/him &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; CSE Student
+  <a href="https://github.com/Starlord786">
+    <img src="https://komarev.com/ghpvc/?username=Starlord786&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-☕_Backend-f89820?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack-⚡_Web_Dev-a855f7?style=flat-square" />
-  <img src="https://img.shields.io/badge/CSE-🎓_Student-4ade80?style=flat-square" />
-  <img src="https://img.shields.io/badge/@Hybixgroups-🏢_Builder-00ffe7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tamil_Nadu-📍_India-fbbf24?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-Backend-0ea5e9?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Development-0ea5e9?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-0ea5e9?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-0ea5e9?style=flat-square" />
 </p>
 
 ---
 
-### 👾 About Me
+## 👨‍💻 About Me
+
+I'm Mohammed Shaban, a Computer Science Engineering student and software developer passionate about building meaningful software.
+
+I enjoy working across the full development stack, exploring new technologies, and transforming ideas into functional applications.
 
 ```java
 public class MohammedShaban {
 
-    String name     = "Mohammed Shaban";
-    String alias    = "Starlord786";
-    String role     = "Software Developer & CSE Student";
-    String company  = "@Hybixgroups";
+    String name = "Mohammed Shaban";
+    String username = "Starlord786";
+    String role = "Software Developer";
+    String organization = "Hybixgroups";
     String location = "Tamil Nadu, India";
 
-    String[] stack  = { "Java", "Spring Boot", "JavaScript", "React", "MySQL", "HTML/CSS" };
-    String[] doing  = { "Building real-world projects", "Learning every day", "Shipping to production" };
+    String[] technologies = {
+        "Java", "Spring Boot", "JavaScript",
+        "React", "PostgreSQL", "MySQL"
+    };
 
-    String motto    = "Code it. Ship it. Repeat.";
+    String[] interests = {
+        "Full-Stack Development",
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Problem Solving"
+    };
+
+    String philosophy = "Build. Learn. Improve. Repeat.";
 }
 ```
 
 ---
 
-### 🐍 My Contributions Eating Themselves
+## 🚀 What I'm Working On
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Starlord786/Starlord786/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Starlord786/Starlord786/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Starlord786/Starlord786/output/github-snake.svg" />
-</picture>
+- Building full-stack applications using Java, Spring Boot and React.
+- Exploring AI integration in real-world applications.
+- Improving backend development and REST API skills.
+- Learning software engineering best practices.
+- Developing projects that solve practical problems.
 
 ---
 
-### 📊 GitHub Stats
-
-
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Starlord786&theme=tokyonight&border=00ffe7&ring=a855f7&fire=fbbf24&currStreakLabel=00ffe7&sideLabels=00ffe7" width="55%" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,postgres,git,github,linux,vscode&theme=dark&perline=6" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Starlord786&theme=tokyo-night&color=00ffe7&line=a855f7&point=fbbf24&area=true&hide_border=false" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Starlord786&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlord786&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=Starlord786&theme=github-dark-blue&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,git,github,linux,vscode&theme=dark&perline=11" />
+  <img src="https://raw.githubusercontent.com/Starlord786/Starlord786/output/github-snake-dark.svg" width="100%" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Starlord786&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-shaban-434188291">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed_Shaban-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:imshabanoffl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-imshabanoffl-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://leetcode.com/u/Mohammed_Shaban/">
-    <img src="https://img.shields.io/badge/LeetCode-Mohammed_Shaban-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  &nbsp;
   <a href="https://hybixgroups.com">
-    <img src="https://img.shields.io/badge/Hybixgroups-🏢_Company-a855f7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Hybixgroups-Website-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <i>"Great software is built through curiosity, consistency, and continuous improvement."</i>
 </p>
 
 <p align="center">
-  <sub>⚡ Built with passion in Tamil Nadu, India &nbsp;·&nbsp; <code>Starlord786</code> &nbsp;·&nbsp; 2026</sub>
+  <sub>Designed & Built by Mohammed Shaban · © 2026</sub>
 </p>
