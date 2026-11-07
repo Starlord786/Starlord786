@@ -128,76 +128,43 @@ An intelligent workforce management platform designed to simplify HR operations 
 
 ## `07 / CONNECT`
 
-<!-- CONNECT SECTION -->
+```bash
+┌──(shaban㉿github)-[~/connect]
+└─$ ./establish_connection --open
 
-<h2 align="center">07 / ESTABLISH CONNECTION</h2>
+[✓] Status      : Available for collaboration
+[✓] Interests   : Backend · Full-Stack · AI Integration
+[✓] Response    : Usually within 24 hours
+
+└─$ ls ./channels
+
+  linkedin/    email/    leetcode/    hybixgroups/
+
+└─$ _
+```
 
 <p align="center">
-  <samp>
-    Have an idea? Let's build something meaningful.
-  </samp>
+  <a href="https://www.linkedin.com/in/mohammed-shaban-434188291">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="mailto:imshabanoffl@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://leetcode.com/u/Mohammed_Shaban/">
+    <img src="https://img.shields.io/badge/LEETCODE-SOLUTIONS-0d1117?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+  </a>
+  <a href="https://hybixgroups.com">
+    <img src="https://img.shields.io/badge/HYBIXGROUPS-ORGANIZATION-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6aa56a" />
+  </a>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <a href="https://www.linkedin.com/in/mohammed-shaban-434188291">
-        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br><br>
-      <strong>Professional Network</strong>
-      <br>
-      <sub>Connect professionally</sub>
-    </td>
-
-    <td align="center" width="250">
-      <a href="mailto:imshabanoffl@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <br><br>
-      <strong>Direct Contact</strong>
-      <br>
-      <sub>Send me an email</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="250">
-      <a href="https://leetcode.com/u/Mohammed_Shaban/">
-        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-      </a>
-      <br><br>
-      <strong>Problem Solving</strong>
-      <br>
-      <sub>Explore my coding journey</sub>
-    </td>
-
-    <td align="center" width="250">
-      <a href="https://hybixgroups.com">
-        <img src="https://img.shields.io/badge/HYBIXGROUPS-6aa56a?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
-      <br><br>
-      <strong>Organization</strong>
-      <br>
-      <sub>Explore Hybixgroups</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
+<p align="center">
+  <sub><code>Have an idea? Let's build something meaningful.</code></sub>
+</p>
 
 <p align="center">
   <code>OPEN TO COLLABORATION · BUILDING · INNOVATION</code>
-</p>
-
----
-
-<p align="center">
-  <code>BUILD / LEARN / ENGINEER / REPEAT</code>
-</p>
-
-<p align="center">
-  <sub>Mohammed Shaban · Starlord786 · 2026</sub>
 </p>
