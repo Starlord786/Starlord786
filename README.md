@@ -106,39 +106,25 @@ An intelligent workforce management platform designed to simplify HR operations 
 ```
 
 ---
-
 ## `05 / GITHUB ANALYTICS`
-<!-- GITHUB ANALYTICS -->
-
-<h2 align="center">05 / GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Starlord786&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=1800" />
-
-  <img width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlord786&layout=compact&hide_border=true&theme=github_dark&cache_seconds=1800" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img width="65%"
-  src="https://streak-stats.demolab.com?user=Starlord786&theme=github-dark-blue&hide_border=true" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=Starlord786&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
 ## `06 / CONTRIBUTION HISTORY`
-<!-- CONTRIBUTION HISTORY -->
-
-<h2 align="center">06 / CONTRIBUTION HISTORY</h2>
 
 <p align="center">
-  <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Starlord786&bg_color=0d1117&color=9ca3af&line=6aa56a&point=ffffff&area=true&hide_border=true"
-  width="100%" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
-
----
 
 ## `07 / CONNECT`
 
