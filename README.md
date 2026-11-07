@@ -108,41 +108,102 @@ An intelligent workforce management platform designed to simplify HR operations 
 ---
 
 ## `05 / GITHUB ANALYTICS`
+<!-- GITHUB ANALYTICS -->
+
+<h2 align="center">05 / GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Starlord786&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6aa56a&icon_color=6aa56a&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlord786&layout=compact&hide_border=true&bg_color=0d1117&title_color=6aa56a&text_color=c9d1d9" />
+  <img width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Starlord786&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=1800" />
+
+  <img width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlord786&layout=compact&hide_border=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Starlord786&theme=github-dark&hide_border=true&ring=6aa56a&fire=6aa56a&currStreakLabel=6aa56a" />
+  <img width="65%"
+  src="https://streak-stats.demolab.com?user=Starlord786&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
 ## `06 / CONTRIBUTION HISTORY`
+<!-- CONTRIBUTION HISTORY -->
+
+<h2 align="center">06 / CONTRIBUTION HISTORY</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Starlord786/Starlord786/output/github-snake-dark.svg" width="100%" />
+  <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Starlord786&bg_color=0d1117&color=9ca3af&line=6aa56a&point=ffffff&area=true&hide_border=true"
+  width="100%" />
 </p>
 
 ---
 
 ## `07 / CONNECT`
 
+<!-- CONNECT SECTION -->
+
+<h2 align="center">07 / ESTABLISH CONNECTION</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-shaban-434188291">
-    <img src="https://img.shields.io/badge/LINKEDIN-6aa56a?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:imshabanoffl@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-6aa56a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Mohammed_Shaban/">
-    <img src="https://img.shields.io/badge/LEETCODE-6aa56a?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://hybixgroups.com">
-    <img src="https://img.shields.io/badge/HYBIXGROUPS-6aa56a?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <samp>
+    Have an idea? Let's build something meaningful.
+  </samp>
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <a href="https://www.linkedin.com/in/mohammed-shaban-434188291">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br><br>
+      <strong>Professional Network</strong>
+      <br>
+      <sub>Connect professionally</sub>
+    </td>
+
+    <td align="center" width="250">
+      <a href="mailto:imshabanoffl@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <br><br>
+      <strong>Direct Contact</strong>
+      <br>
+      <sub>Send me an email</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="250">
+      <a href="https://leetcode.com/u/Mohammed_Shaban/">
+        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+      <br><br>
+      <strong>Problem Solving</strong>
+      <br>
+      <sub>Explore my coding journey</sub>
+    </td>
+
+    <td align="center" width="250">
+      <a href="https://hybixgroups.com">
+        <img src="https://img.shields.io/badge/HYBIXGROUPS-6aa56a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <br><br>
+      <strong>Organization</strong>
+      <br>
+      <sub>Explore Hybixgroups</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <code>OPEN TO COLLABORATION · BUILDING · INNOVATION</code>
 </p>
 
 ---
